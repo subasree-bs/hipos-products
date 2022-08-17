@@ -1,0 +1,61 @@
+.App{
+  max-height: 100vh;
+}
+.products_content{
+  padding: 5px 15px;
+  background-color: #d8d8d8;
+
+}
+.products_heading{
+  font-size: 26px;
+  margin-top: 0;
+}
+.products_heading_span{
+  font-size: 16px;
+  color: grey;
+}
+.filters_div{
+  height: max-content;
+  background-color: white;
+  border-radius: 5px;
+}
+.filters_div:hover{
+  /* box-shadow: 5px 5px 5px 5px grey; */
+  box-shadow: 0px 0px 10px 2px grey;
+        
+}
+.products_div{
+  height: max-content;
+  background-color: white;
+  margin-top: 7px;
+  border-radius: 5px;
+
+}
+.products_div:hover{
+  box-shadow: 0px 0px 10px 2px grey;
+}
+.filters_title_div{
+  /* padding: 10px 0 0 25px; */
+  font-size: 23px !important;
+  color: #0084ff;
+  background-color: white !important;
+}
+.filters_content_div{
+  padding: 0 25px 5px 25px;
+}
+.sidebar_div{
+  height: 100vh;
+  /* width: 20%; */
+  background-color: chocolate;
+  color: white;
+  text-align: center;
+}
+
+.top{
+  margin-top: 8px;
+}
+
+
+.MuiTablePagination-selectLabel{
+  margin-left: 30px;
+}
